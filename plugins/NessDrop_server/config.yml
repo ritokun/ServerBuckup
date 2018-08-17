@@ -1,0 +1,90 @@
+---
+datetime-format: "H:i:s"
+Motd:
+  update-timeout: 1
+  custom: true
+  message: "§9[IDC] §c§kil§r §l§aNessDrop§r §c§kil§r &n&b[{TOTALPLAYERS}/{MAXPLAYERS}]"
+OutdatedClient:
+  custom: false
+  message: "&cYour MCPE client is outdated!"
+OutdatedServer:
+  custom: false
+  message: "&cOops! Server outdated!"
+WhitelistedServer:
+  custom: false
+  message: "&c&oThis Server is whitelisted!"
+FullServer:
+  custom: false
+  message: "&e{PLAYER}&b, The Server is full &c[{TOTALPLAYERS}/{MAXPLAYERS}]&b!\n&l&dTry to join later :)"
+FirstJoin:
+  enable: false
+  message: "&2[{TIME}] &a{PLAYER}&d joined the game for the first time."
+Join:
+  hide: false
+  custom: false
+  message: "&2[{TIME}] &a{PLAYER}&e joined the game."
+Quit:
+  hide: false
+  custom: false
+  message: "&4[{TIME}] &c{PLAYER}&e has left the game"
+WorldChange:
+  enable: false
+  message: "&2[{TIME}] &a{PLAYER}&e moved from &c{ORIGIN}&e to &a{TARGET}"
+Death:
+  hide: false
+  custom: true
+  message: "&c{PLAYER} が死亡しました"
+  death-contact-message:
+    hide: false
+    custom: false
+    message: "&cOops! {PLAYER} was killed by {BLOCK}"
+  kill-message:
+    hide: false
+    custom: true
+    message: "§c{KILLER} が §a{PLAYER}をキルしました"  
+  death-projectile-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} was killed by {KILLER} by arrow"
+  death-suffocation-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} suffocated"
+  death-fall-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} fell from a high place"
+  death-fire-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} 燃え尽きた"
+  death-on-fire-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} burned"
+  death-lava-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} tried to swim in lava"
+  death-drowning-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} drowned"
+  death-explosion-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} exploded"
+  death-void-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} fell into the void"
+  death-suicide-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} committed suicide"
+  death-magic-message:
+    hide: false
+    custom: false
+    message: "&c{PLAYER} was killed by a spell"
+...
+

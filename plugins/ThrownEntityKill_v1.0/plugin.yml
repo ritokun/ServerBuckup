@@ -1,0 +1,6 @@
+name: ArrowKill
+author: hayao
+version: 1.0
+description: EntityKill
+main: hayao\main
+api: 4.0.0

@@ -1,0 +1,7 @@
+name: APITools
+main: APITools\APITools
+version: 0.4
+api:
+- 4.0.0
+author: CreeParker
+website: https://twitter.com/cree_parker

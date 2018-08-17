@@ -1,0 +1,23 @@
+---
+name: Discord-MCPE2
+author: Niekert
+version: 1.0.0
+api:
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+- 3.0.2
+- 4.0.0
+softdepend: PurePerms
+main: Niekert\DiscordMCPE\Main
+commands:
+  discord:
+    description: Send an message to Discord!
+    permission: discord.send
+    usage: /discord MESSAGE
+    aliases:
+    - dc
+permissions:
+  discord.send:
+    default: op
+...

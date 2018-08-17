@@ -1,0 +1,8 @@
+---
+
+## Number of ticks to wait before refreshing the display
+refreshRate: 4
+## Mode of the display (tip/popup)
+displayMode: "tip"
+
+...

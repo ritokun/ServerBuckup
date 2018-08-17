@@ -1,0 +1,69 @@
+############################################################
+#                       Discord-MCPE                       #
+#                        By: Niekert                       #
+#                         Support:                         #
+#   https://github.com/NiekertDev/Discord-MCPE/issues/new  #
+#   Credit to Thunder33345 for helping with small things   #
+#         Credit to TheRoyalBlock for config design        #
+#               Main options section (below)               #
+############################################################
+
+webhook_url: "https://discordapp.com/api/webhooks/457832160683098113/WRjnCNchH9J0YK2610sofLSre2QlfEWF6FN8JceVdVSrAac0Z30XsrugczNh5uPtA6Pp"
+# Your discord webhook url.
+
+chat_url: "0" 
+# Webhook url for the /discord command and when somebody chats. Set to 0 to use default.
+
+username: "Server Start!!!!"   
+# The username the plugin uses in discord.
+
+chat_username: "0" 
+# The username of the plugin for /discord and when someone chats. Set to 0 to use default.
+
+chat_format: "[{player}] {message}"
+# Format in discord that the plugin uses when sending a message. {rank}, {player}, and {message} can be used.
+
+############################################################
+#                     Messages on Event                    #
+#   These messages are triggered on an event such as when  #
+#   the server starts or stops, or when a player joins or  #
+#             leaves. Also when a player dies.             #
+#        Tip: Set any of these to 0 to disable them        #
+############################################################
+
+start_message: "サーバースタート！！！" 
+# Message sent when server starts.
+
+shutdown_message: "サーバーストップ！！！" 
+# Message sent when server stops.
+
+############################################################
+#                       Other Options                      #
+#  It is not recommended that you change these, especially #
+#         if you do not understand what they mean.         #
+#      Tip: Set any of these to false to disable them      #
+#       Tip: Set any of these to true to enable them       #
+############################################################
+
+command: false
+# Enable/disable "/discord"
+
+chat_prefix: "!" 
+# Prefix for chat. See README.md for more info.
+
+chat: false
+# Send everything to Discord. Recommended to keep this disabled, but it can be used.
+
+pureperms: false
+# Support for PurePerms rank names. PurePerms ranks use the prefix {rank}.
+# If not enabled, {rank} tags will only show as {rank}.
+
+debug: false
+# Show error messages. Set to 1 to enable.
+
+#####################################################
+#     UNDER NO CIRCUMSTANCES SHOULD YOU EDIT THE    #
+#                  FOLLOWING LINE!                  #
+Version: "1.0.2"
+#     Thank you for not editing the line above!     #
+#####################################################

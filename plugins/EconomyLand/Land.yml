@@ -1,0 +1,593 @@
+---
+0:
+  ID: 0
+  startX: -12
+  endX: 0
+  startZ: -78
+  endZ: 0
+  price: 102700
+  owner: Ritorick1970
+  level: 人口資源
+  invitee: []
+  expires: ~
+1:
+  ID: 1
+  startX: 213
+  endX: 241
+  startZ: 225
+  endZ: 253
+  price: 84100
+  owner: hiromun0120
+  level: world
+  invitee: []
+  expires: ~
+2:
+  ID: 2
+  startX: 247
+  endX: 275
+  startZ: 225
+  endZ: 253
+  price: 84100
+  owner: Ritorick1970
+  level: world
+  invitee: []
+  expires: ~
+3:
+  ID: 3
+  startX: 239
+  endX: 252
+  startZ: 238
+  endZ: 251
+  price: 19600
+  owner: Ritorick1970
+  level: 宅地
+  invitee: []
+  expires: ~
+4:
+  ID: 4
+  startX: 224
+  endX: 237
+  startZ: 238
+  endZ: 251
+  price: 19600
+  owner: kouJAPAN0924
+  level: 宅地
+  invitee: []
+  expires: ~
+7:
+  ID: 7
+  startX: 194
+  endX: 222
+  startZ: 223
+  endZ: 251
+  price: 84100
+  owner: bell0928
+  level: 宅地
+  invitee: []
+  expires: ~
+8:
+  ID: 8
+  startX: 164
+  endX: 192
+  startZ: 223
+  endZ: 251
+  price: 84100
+  owner: Ritorick1970
+  level: 宅地
+  invitee: []
+  expires: ~
+9:
+  ID: 9
+  startX: 149
+  endX: 162
+  startZ: 238
+  endZ: 251
+  price: 19600
+  owner: StunningBench23
+  level: 宅地
+  invitee: []
+  expires: ~
+16:
+  ID: 16
+  startX: 217
+  endX: 230
+  startZ: 290
+  endZ: 303
+  price: 19600
+  owner: Ritorick1970
+  level: 宅地
+  invitee: []
+  expires: ~
+19:
+  ID: 19
+  startX: 119
+  endX: 147
+  startZ: 223
+  endZ: 251
+  price: 84100
+  owner: Ritorick1970
+  level: 宅地
+  invitee:
+    osakana529: true
+  expires: ~
+20:
+  ID: 20
+  startX: 149
+  endX: 162
+  startZ: 223
+  endZ: 236
+  price: 19600
+  owner: tkpnender
+  level: 宅地
+  invitee: []
+  expires: ~
+21:
+  ID: 21
+  startX: 149
+  endX: 162
+  startZ: 208
+  endZ: 222
+  price: 21000
+  owner: tkpnender
+  level: 宅地
+  invitee: []
+  expires: ~
+22:
+  ID: 22
+  startX: 164
+  endX: 192
+  startZ: 193
+  endZ: 222
+  price: 87000
+  owner: Ritorick1970
+  level: 宅地
+  invitee:
+    StunningBench23: true
+    NORAmikan: true
+  expires: ~
+23:
+  ID: 23
+  startX: 164
+  endX: 192
+  startZ: 163
+  endZ: 191
+  price: 84100
+  owner: StunningBench23
+  level: 宅地
+  invitee: []
+  expires: ~
+24:
+  ID: 24
+  startX: 149
+  endX: 162
+  startZ: 193
+  endZ: 206
+  price: 19600
+  owner: StunningBench23
+  level: 宅地
+  invitee: []
+  expires: ~
+25:
+  ID: 25
+  startX: 149
+  endX: 162
+  startZ: 178
+  endZ: 192
+  price: 21000
+  owner: Ritorick1970
+  level: 宅地
+  invitee:
+    StunningBench23: true
+  expires: ~
+26:
+  ID: 26
+  startX: 163
+  endX: 163
+  startZ: 178
+  endZ: 191
+  price: 1400
+  owner: Ritorick1970
+  level: 宅地
+  invitee:
+    StunningBench23: true
+  expires: ~
+27:
+  ID: 27
+  startX: 194
+  endX: 222
+  startZ: 193
+  endZ: 221
+  price: 84100
+  owner: k0904123456
+  level: 宅地
+  invitee:
+    SionnHoruto0906: true
+  expires: ~
+29:
+  ID: 29
+  startX: 119
+  endX: 147
+  startZ: 133
+  endZ: 161
+  price: 84100
+  owner: minamotoSR
+  level: 宅地
+  invitee: []
+  expires: ~
+31:
+  ID: 31
+  startX: 224
+  endX: 252
+  startZ: 133
+  endZ: 146
+  price: 40600
+  owner: StunningBench23
+  level: 宅地
+  invitee: []
+  expires: ~
+32:
+  ID: 32
+  startX: 259
+  endX: 332
+  startZ: 208
+  endZ: 251
+  price: 325600
+  owner: Ritorick1970
+  level: 宅地
+  invitee: []
+  expires: ~
+33:
+  ID: 33
+  startX: 54
+  endX: 67
+  startZ: 238
+  endZ: 251
+  price: 19600
+  owner: Doragonblue22
+  level: 宅地
+  invitee: []
+  expires: ~
+34:
+  ID: 34
+  startX: 224
+  endX: 237
+  startZ: 193
+  endZ: 206
+  price: 19600
+  owner: k0904123456
+  level: 宅地
+  invitee:
+    suraimu256: true
+    innga44: true
+  expires: ~
+36:
+  ID: 36
+  startX: 194
+  endX: 222
+  startZ: 163
+  endZ: 191
+  price: 84100
+  owner: Kinako0w0
+  level: 宅地
+  invitee: []
+  expires: ~
+38:
+  ID: 38
+  startX: 228
+  endX: 286
+  startZ: 193
+  endZ: 251
+  price: 348100
+  owner: Ritorick1970
+  level: KZYU
+  invitee: []
+  expires: ~
+39:
+  ID: 39
+  startX: 198
+  endX: 226
+  startZ: 223
+  endZ: 251
+  price: 84100
+  owner: crazy114514
+  level: KZYU
+  invitee: []
+  expires: ~
+40:
+  ID: 40
+  startX: 198
+  endX: 226
+  startZ: 193
+  endZ: 221
+  price: 84100
+  owner: crazy114514
+  level: KZYU
+  invitee: []
+  expires: ~
+41:
+  ID: 41
+  startX: 168
+  endX: 196
+  startZ: 223
+  endZ: 251
+  price: 84100
+  owner: crazy114514
+  level: KZYU
+  invitee: []
+  expires: ~
+42:
+  ID: 42
+  startX: 168
+  endX: 196
+  startZ: 193
+  endZ: 221
+  price: 84100
+  owner: crazy114514
+  level: KZYU
+  invitee: []
+  expires: ~
+43:
+  ID: 43
+  startX: 289
+  endX: 317
+  startZ: 178
+  endZ: 206
+  price: 84100
+  owner: crazy114514
+  level: 宅地
+  invitee: []
+  expires: ~
+44:
+  ID: 44
+  startX: 293
+  endX: 351
+  startZ: 193
+  endZ: 251
+  price: 348100
+  owner: StunningBench23
+  level: KZYU
+  invitee: []
+  expires: ~
+45:
+  ID: 45
+  startX: 168
+  endX: 226
+  startZ: 133
+  endZ: 191
+  price: 348100
+  owner: tokei0709
+  level: KZYU
+  invitee: []
+  expires: ~
+46:
+  ID: 46
+  startX: 259
+  endX: 287
+  startZ: 148
+  endZ: 176
+  price: 84100
+  owner: mykuratetudo999
+  level: 宅地
+  invitee: []
+  expires: ~
+47:
+  ID: 47
+  startX: 108
+  endX: 166
+  startZ: 193
+  endZ: 251
+  price: 348100
+  owner: mykuratetudo999
+  level: KZYU
+  invitee: []
+  expires: ~
+48:
+  ID: 48
+  startX: 108
+  endX: 166
+  startZ: 133
+  endZ: 191
+  price: 348100
+  owner: PerfectDeth4
+  level: KZYU
+  invitee: []
+  expires: ~
+49:
+  ID: 49
+  startX: 289
+  endX: 317
+  startZ: 148
+  endZ: 176
+  price: 84100
+  owner: PerfectDeth4
+  level: 宅地
+  invitee: []
+  expires: ~
+50:
+  ID: 50
+  startX: 258
+  endX: 300
+  startZ: 260
+  endZ: 285
+  price: 111800
+  owner: k0904123456
+  level: SHOPW
+  invitee: []
+  expires: ~
+51:
+  ID: 51
+  startX: 239
+  endX: 252
+  startZ: 178
+  endZ: 191
+  price: 19600
+  owner: Ritorick1970
+  level: 宅地
+  invitee: []
+  expires: ~
+52:
+  ID: 52
+  startX: 228
+  endX: 286
+  startZ: 133
+  endZ: 191
+  price: 348100
+  owner: tokei0709
+  level: KZYU
+  invitee: []
+  expires: ~
+53:
+  ID: 53
+  startX: 293
+  endX: 351
+  startZ: 133
+  endZ: 191
+  price: 348100
+  owner: tokei0709
+  level: KZYU
+  invitee: []
+  expires: ~
+54:
+  ID: 54
+  startX: 353
+  endX: 411
+  startZ: 133
+  endZ: 191
+  price: 348100
+  owner: tokei0709
+  level: KZYU
+  invitee: []
+  expires: ~
+55:
+  ID: 55
+  startX: 353
+  endX: 411
+  startZ: 193
+  endZ: 251
+  price: 348100
+  owner: tokei0709
+  level: KZYU
+  invitee: []
+  expires: ~
+56:
+  ID: 56
+  startX: 228
+  endX: 286
+  startZ: 68
+  endZ: 126
+  price: 348100
+  owner: tokei0709
+  level: KZYU
+  invitee: []
+  expires: ~
+60:
+  ID: 60
+  startX: 194
+  endX: 207
+  startZ: 148
+  endZ: 161
+  price: 19600
+  owner: hatochan 18675
+  level: 宅地
+  invitee: []
+  expires: ~
+61:
+  ID: 61
+  startX: 224
+  endX: 252
+  startZ: 98
+  endZ: 126
+  price: 84100
+  owner: yuuya9618
+  level: 宅地
+  invitee: []
+  expires: ~
+62:
+  ID: 62
+  startX: 224
+  endX: 252
+  startZ: 68
+  endZ: 96
+  price: 84100
+  owner: yuuya9618
+  level: 宅地
+  invitee: []
+  expires: ~
+63:
+  ID: 63
+  startX: 194
+  endX: 222
+  startZ: 68
+  endZ: 96
+  price: 84100
+  owner: Ritorick1970
+  level: 宅地
+  invitee: []
+  expires: ~
+64:
+  ID: 64
+  startX: 239
+  endX: 252
+  startZ: 193
+  endZ: 206
+  price: 19600
+  owner: FishGod5578
+  level: 宅地
+  invitee: []
+  expires: ~
+65:
+  ID: 65
+  startX: 293
+  endX: 656
+  startZ: -242
+  endZ: 126
+  price: 13431600
+  owner: Ritorick1970
+  level: KZYU
+  invitee: []
+  expires: ~
+66:
+  ID: 66
+  startX: 243
+  endX: 286
+  startZ: 23
+  endZ: 66
+  price: 193600
+  owner: NORAmikan
+  level: KZYU
+  invitee: []
+  expires: ~
+68:
+  ID: 68
+  startX: 43
+  endX: 101
+  startZ: 193
+  endZ: 251
+  price: 348100
+  owner: tkpnender
+  level: KZYU
+  invitee: []
+  expires: ~
+69:
+  ID: 69
+  startX: 183
+  endX: 226
+  startZ: 83
+  endZ: 126
+  price: 193600
+  owner: jokerpuppet00
+  level: KZYU
+  invitee: []
+  expires: ~
+70:
+  ID: 70
+  startX: 259
+  endX: 287
+  startZ: 98
+  endZ: 126
+  price: 84100
+  owner: yuuya9618
+  level: 宅地
+  invitee: []
+  expires: ~
+...

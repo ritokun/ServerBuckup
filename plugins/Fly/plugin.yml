@@ -1,0 +1,30 @@
+---
+name: Fly
+main: Nerahikada\Fly\Main
+version: 1.0.0
+api:
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+- 3.0.2
+- 4.0.0
+load: POSTWORLD
+author: ねらひかだ
+description: 飛べます！
+website: https://github.com/Nerahikada/Fly
+commands:
+  fly:
+    description: 飛行を切り替えます
+    usage: /fly
+    permission: fly.command.fly
+permissions: ~
+fly:
+  default: op
+  description: すべてのFlyの使用を許可する
+  children:
+    fly.command:
+      default: op
+      description: すべてのFlyコマンドの使用を許可する
+      children:
+        fly.command.fly:
+          default: op
+...

@@ -1,0 +1,777 @@
+---
+"259,6,241":
+  ID: "17"
+  META: log
+  COUNT: 64
+  PRICE: 10000
+"260,6,241":
+  ID: "5"
+  META: オークの木材
+  COUNT: 64
+  PRICE: 1500
+"261,6,241":
+  ID: "4"
+  META: 丸石
+  COUNT: 64
+  PRICE: 5000
+35,27,-37:
+  ID: "263"
+  META: sekitan
+  COUNT: 64
+  PRICE: 1
+41,27,-34:
+  ID: "263"
+  META: sekitan
+  COUNT: 64
+  PRICE: 1
+44,27,-40:
+  ID: "263"
+  META: sekitan
+  COUNT: 64
+  PRICE: 1
+38,27,-43:
+  ID: "263"
+  META: sekitan
+  COUNT: 64
+  PRICE: 1
+"250,33,246":
+  ID: "268"
+  META: t
+  COUNT: 1
+  PRICE: 1
+"250,33,245":
+  ID: "322"
+  META: t
+  COUNT: 10
+  PRICE: 1
+"246,33,247":
+  ID: "306"
+  META: t
+  COUNT: 1
+  PRICE: 100
+"246,32,247":
+  ID: "307"
+  META: t
+  COUNT: 1
+  PRICE: 100
+"245,33,247":
+  ID: "308"
+  META: t
+  COUNT: 1
+  PRICE: 100
+"244,33,247":
+  ID: "267"
+  META: t
+  COUNT: 1
+  PRICE: 100
+"250,33,244":
+  ID: "364"
+  META: t
+  COUNT: 64
+  PRICE: 100
+"245,32,247":
+  ID: "309"
+  META: tt
+  COUNT: 1
+  PRICE: 100
+"163,4,252":
+  ID: "20"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"154,8,228":
+  ID: "264"
+  META: 0
+  COUNT: 64
+  PRICE: 10000
+"264,5,243":
+  ID: "297"
+  META: xpnw
+  COUNT: 1
+  PRICE: 108
+"264,5,244":
+  ID: "373"
+  META: "22"
+  COUNT: 1
+  PRICE: 150
+"261,4,252":
+  ID: "255"
+  META: tt
+  COUNT: 1
+  PRICE: 1316134912
+38,27,-42:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+36,27,-37:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+43,27,-40:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+"263,6,241":
+  ID: "35"
+  META: tt
+  COUNT: 64
+  PRICE: 1000
+"224,5,198":
+  ID: "14"
+  META: 0
+  COUNT: 255
+  PRICE: 10
+"264,6,241":
+  ID: "17"
+  META: tt
+  COUNT: 64
+  PRICE: 2000
+"258,4,206":
+  ID: "373"
+  META: "21"
+  COUNT: 1
+  PRICE: 50000
+"271,4,259":
+  ID: "17"
+  META: 0
+  COUNT: 1
+  PRICE: 1
+"271,5,262":
+  ID: "17"
+  META: 0
+  COUNT: 64
+  PRICE: 500
+"268,5,262":
+  ID: "17"
+  META: tt
+  COUNT: 64
+  PRICE: 500
+"271,5,266":
+  ID: "2"
+  META: 0
+  COUNT: 64
+  PRICE: 180
+"268,5,266":
+  ID: "2"
+  META: tt
+  COUNT: 64
+  PRICE: 180
+"271,5,268":
+  ID: "252"
+  META: 0
+  COUNT: 32
+  PRICE: 1500
+"271,5,270":
+  ID: "89"
+  META: 0
+  COUNT: 64
+  PRICE: 2000
+"271,5,272":
+  ID: "169"
+  META: 0
+  COUNT: 64
+  PRICE: 2000
+"271,5,274":
+  ID: "90"
+  META: 0
+  COUNT: 10
+  PRICE: 2500
+"274,5,274":
+  ID: "119"
+  META: 0
+  COUNT: 10
+  PRICE: 2500
+"274,5,272":
+  ID: "264"
+  META: 0
+  COUNT: 1
+  PRICE: 5000
+"274,5,270":
+  ID: "388"
+  META: 0
+  COUNT: 1
+  PRICE: 6900
+"274,5,268":
+  ID: "266"
+  META: 0
+  COUNT: 1
+  PRICE: 3500
+"274,5,266":
+  ID: "265"
+  META: 0
+  COUNT: 1
+  PRICE: 1500
+"274,5,262":
+  ID: "174"
+  META: 0
+  COUNT: 30
+  PRICE: 1000
+"274,5,264":
+  ID: "80"
+  META: 0
+  COUNT: 64
+  PRICE: 850
+"277,5,262":
+  ID: "4"
+  META: 0
+  COUNT: 64
+  PRICE: 320
+"277,5,264":
+  ID: "45"
+  META: 0
+  COUNT: 64
+  PRICE: 1280
+"277,5,266":
+  ID: "12"
+  META: 0
+  COUNT: 64
+  PRICE: 568
+"277,5,268":
+  ID: "13"
+  META: 0
+  COUNT: 64
+  PRICE: 568
+"277,5,270":
+  ID: "20"
+  META: 0
+  COUNT: 64
+  PRICE: 2568
+"271,5,264":
+  ID: "121"
+  META: 0
+  COUNT: 64
+  PRICE: 682
+"277,5,272":
+  ID: "35"
+  META: 0
+  COUNT: 64
+  PRICE: 250
+"277,5,274":
+  ID: "236"
+  META: 0
+  COUNT: 64
+  PRICE: 498
+"284,5,263":
+  ID: "45"
+  META: 0
+  COUNT: 64
+  PRICE: 398
+"284,5,267":
+  ID: "4"
+  META: 0
+  COUNT: 64
+  PRICE: 298
+"284,5,271":
+  ID: "112"
+  META: 0
+  COUNT: 64
+  PRICE: 1198
+"284,5,275":
+  ID: "98"
+  META: 0
+  COUNT: 64
+  PRICE: 998
+"284,5,279":
+  ID: "20"
+  META: 0
+  COUNT: 64
+  PRICE: 1500
+"288,5,283":
+  ID: "2"
+  META: 0
+  COUNT: 64
+  PRICE: 35
+"288,5,279":
+  ID: "213"
+  META: 0
+  COUNT: 64
+  PRICE: 2365
+"288,5,275":
+  ID: "87"
+  META: 0
+  COUNT: 64
+  PRICE: 500
+"288,5,271":
+  ID: "24"
+  META: 0
+  COUNT: 64
+  PRICE: 654
+"288,5,267":
+  ID: "121"
+  META: 0
+  COUNT: 64
+  PRICE: 35
+"288,5,263":
+  ID: "1"
+  META: "1"
+  COUNT: 64
+  PRICE: 50
+"292,5,263":
+  ID: "201"
+  META: 0
+  COUNT: 64
+  PRICE: 526
+"292,5,267":
+  ID: "201"
+  META: "2"
+  COUNT: 64
+  PRICE: 369
+"292,5,271":
+  ID: "12"
+  META: 0
+  COUNT: 64
+  PRICE: 100
+"292,5,275":
+  ID: "12"
+  META: "1"
+  COUNT: 64
+  PRICE: 380
+"292,5,279":
+  ID: "170"
+  META: 0
+  COUNT: 64
+  PRICE: 604
+"292,5,283":
+  ID: "155"
+  META: "1"
+  COUNT: 64
+  PRICE: 1551
+"252,5,275":
+  ID: "65"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"253,5,279":
+  ID: "65"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"262,6,241":
+  ID: "155"
+  META: tt
+  COUNT: 64
+  PRICE: 20000
+"280,5,263":
+  ID: "17"
+  META: tt
+  COUNT: 64
+  PRICE: 5000
+"280,5,267":
+  ID: "17"
+  META: "1"
+  COUNT: 64
+  PRICE: 5000
+"280,5,271":
+  ID: "17"
+  META: "3"
+  COUNT: 64
+  PRICE: 5000
+"280,5,275":
+  ID: "17"
+  META: "2"
+  COUNT: 64
+  PRICE: 5000
+"280,5,279":
+  ID: "162"
+  META: tt
+  COUNT: 64
+  PRICE: 10000
+"296,5,267":
+  ID: "214"
+  META: 0
+  COUNT: 64
+  PRICE: 39800
+"296,5,271":
+  ID: "216"
+  META: 0
+  COUNT: 10
+  PRICE: 3065
+"296,5,275":
+  ID: "168"
+  META: 0
+  COUNT: 64
+  PRICE: 640
+"296,5,279":
+  ID: "168"
+  META: "1"
+  COUNT: 64
+  PRICE: 1680
+"296,5,283":
+  ID: "41"
+  META: 0
+  COUNT: 1
+  PRICE: 1200
+"282,5,263":
+  ID: "17"
+  META: tt
+  COUNT: 64
+  PRICE: 5000
+"282,5,267":
+  ID: "17"
+  META: "1"
+  COUNT: 64
+  PRICE: 5000
+"282,5,271":
+  ID: "17"
+  META: "3"
+  COUNT: 64
+  PRICE: 5000
+"282,5,275":
+  ID: "17"
+  META: "2"
+  COUNT: 64
+  PRICE: 5000
+"282,5,279":
+  ID: "162"
+  META: "0"
+  COUNT: 64
+  PRICE: 5000
+"284,5,283":
+  ID: "35"
+  META: 0
+  COUNT: 64
+  PRICE: 692
+"286,5,283":
+  ID: "35"
+  META: "0"
+  COUNT: 64
+  PRICE: 298
+"286,5,279":
+  ID: "20"
+  META: "0"
+  COUNT: 64
+  PRICE: 1000
+"286,5,275":
+  ID: "98"
+  META: "0"
+  COUNT: 64
+  PRICE: 555
+"286,5,267":
+  ID: "4"
+  META: "0"
+  COUNT: 64
+  PRICE: 198
+"286,5,263":
+  ID: "32"
+  META: "0"
+  COUNT: 64
+  PRICE: 98
+"290,5,283":
+  ID: "2"
+  META: "0"
+  COUNT: 64
+  PRICE: 10
+"294,5,271":
+  ID: "12"
+  META: "0"
+  COUNT: 64
+  PRICE: 50
+"294,5,275":
+  ID: "12"
+  META: "1"
+  COUNT: 64
+  PRICE: 190
+"298,5,283":
+  ID: "41"
+  META: "0"
+  COUNT: 1
+  PRICE: 1000
+"298,5,271":
+  ID: "216"
+  META: "0"
+  COUNT: 64
+  PRICE: 2500
+"274,5,263":
+  ID: "364"
+  META: 0
+  COUNT: 64
+  PRICE: 500
+"272,5,267":
+  ID: "23"
+  META: "0"
+  COUNT: 1
+  PRICE: 80
+"272,5,271":
+  ID: "25"
+  META: "0"
+  COUNT: 1
+  PRICE: 1
+"274,5,283":
+  ID: "60"
+  META: 0
+  COUNT: 64
+  PRICE: 1960
+"272,5,283":
+  ID: "60"
+  META: "0"
+  COUNT: 64
+  PRICE: 100
+"270,5,283":
+  ID: "88"
+  META: 0
+  COUNT: 64
+  PRICE: 16500
+"270,5,263":
+  ID: "165"
+  META: 0
+  COUNT: 1
+  PRICE: 1000
+"266,5,271":
+  ID: "30"
+  META: 0
+  COUNT: 10
+  PRICE: 5000
+"266,5,275":
+  ID: "92"
+  META: 0
+  COUNT: 5
+  PRICE: 6000
+"274,5,275":
+  ID: "49"
+  META: tt
+  COUNT: 64
+  PRICE: 10000
+"274,5,279":
+  ID: "50"
+  META: tt
+  COUNT: 64
+  PRICE: 100
+"274,5,267":
+  ID: "444"
+  META: tt
+  COUNT: 1
+  PRICE: 16500
+"296,5,263":
+  ID: "81"
+  META: tt
+  COUNT: 64
+  PRICE: 1000
+"316,5,261":
+  ID: "155"
+  META: tt
+  COUNT: 64
+  PRICE: 20000
+"316,5,263":
+  ID: "5"
+  META: tt
+  COUNT: 64
+  PRICE: 800
+"316,5,265":
+  ID: "17"
+  META: tt
+  COUNT: 64
+  PRICE: 6000
+"316,5,267":
+  ID: "1"
+  META: tt
+  COUNT: 64
+  PRICE: 4000
+"316,5,269":
+  ID: "35"
+  META: tt
+  COUNT: 64
+  PRICE: 300
+"275,13,243":
+  ID: "264"
+  META: tt
+  COUNT: 64
+  PRICE: 10
+"270,5,267":
+  ID: "351"
+  META: "1"
+  COUNT: 64
+  PRICE: 1500
+"270,5,271":
+  ID: "351"
+  META: "11"
+  COUNT: 64
+  PRICE: 1600
+"270,5,275":
+  ID: "351"
+  META: "4"
+  COUNT: 64
+  PRICE: 1800
+"270,5,279":
+  ID: "351"
+  META: "10"
+  COUNT: 64
+  PRICE: 1988
+"282,5,283":
+  ID: "155"
+  META: tt
+  COUNT: 64
+  PRICE: 20000
+"264,5,245":
+  ID: "320"
+  META: tt
+  COUNT: 1
+  PRICE: 167
+"266,5,263":
+  ID: "15"
+  META: 0
+  COUNT: 64
+  PRICE: 10000
+"264,5,263":
+  ID: "15"
+  META: tt
+  COUNT: 64
+  PRICE: 10000
+"264,5,241":
+  ID: "322"
+  META: tt
+  COUNT: 1
+  PRICE: 10
+"264,5,242":
+  ID: "320"
+  META: tt
+  COUNT: 64
+  PRICE: 10688
+"266,5,267":
+  ID: "264"
+  META: tt
+  COUNT: 64
+  PRICE: 30000
+"264,5,267":
+  ID: "264"
+  META: tt
+  COUNT: 64
+  PRICE: 25000
+"252,4,92":
+  ID: "17"
+  META: 0
+  COUNT: 600
+  PRICE: 1000
+"280,5,283":
+  ID: "155"
+  META: tt
+  COUNT: 64
+  PRICE: 20000
+41,27,-35:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+81,27,-34:
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+84,27,-40:
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+78,27,-43:
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+75,27,-37:
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"75,27,3":
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"81,27,6":
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"84,27,0":
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+78,27,-3:
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"35,27,3":
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+38,27,-3:
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"44,27,0":
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"41,27,6":
+  ID: "263"
+  META: tt
+  COUNT: 64
+  PRICE: 1
+"36,27,3":
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+"41,27,5":
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+"43,27,0":
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+38,27,-2:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+"76,27,3":
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+"81,27,5":
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+"83,27,0":
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+78,27,-2:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+81,27,-35:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+83,27,-40:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+78,27,-42:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+76,27,-37:
+  ID: "130"
+  META: tt
+  COUNT: 1
+  PRICE: 10000
+...

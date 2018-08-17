@@ -1,0 +1,17 @@
+---
+name: test2
+main: test\command\main
+version: 1.0.0
+api:
+- 3.0.0-ALPHA12
+- 3.0.2
+- 4.0.0
+load: POSTWORLD
+author: Ritorick
+description: testです！
+commands:
+  gmc:
+    description: gamemode 1
+    usage: /gmc
+    permission: skeleton.command
+...

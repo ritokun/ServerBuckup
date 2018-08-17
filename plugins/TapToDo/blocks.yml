@@ -1,0 +1,277 @@
+---
+version: 1
+blocks:
+  0:
+    x: -6
+    "y": 5
+    z: -1
+    level: world
+    commands:
+    - tp @p 10 4 0
+  1:
+    x: 0
+    "y": 5
+    z: 12
+    level: world
+    commands:
+    - say 只今看板プラグインの修正中です。誠に申し訳ありません
+  2:
+    x: 9
+    "y": 4
+    z: 10
+    level: world
+    commands:
+    - time set day
+  3:
+    x: 11
+    "y": 4
+    z: 10
+    level: world
+    commands:
+    - time set night
+  4:
+    x: 17
+    "y": 4
+    z: 14
+    level: world
+    commands:
+    - tp Ritorick0925 ~ ~ ~ ~10
+  5:
+    x: -1
+    "y": 5
+    z: -2
+    level: world
+    commands:
+    - say このワールドは制作中です
+  6:
+    x: -26
+    "y": 4
+    z: -105
+    level: world
+    commands:
+    - say qqq
+  7:
+    x: 13
+    "y": 16
+    z: -7
+    level: world
+    commands:
+    - tp Ritorick0925 ~ ~10 ~
+  8:
+    x: 4
+    "y": 6
+    z: -16
+    level: world
+    commands:
+    - tp Ritorick0925 -70.3 4.0 -24.3
+    - 'warp FFA Ritorick0925 '
+    - warp FFA
+  9:
+    x: -1
+    "y": 6
+    z: 16
+    level: world
+    commands:
+    - 'warp FFA Ritorick0925 '
+  10:
+    x: 285
+    "y": 6
+    z: 258
+    level: world
+    commands:
+    - warp 人口資源
+  11:
+    x: 285
+    "y": 6
+    z: 259
+    level: world
+    commands:
+    - warp ｒｕｌｅ
+  12:
+    x: 285
+    "y": 6
+    z: 260
+    level: world
+    commands:
+    - warp 宅地
+  13:
+    x: 285
+    "y": 6
+    z: 261
+    level: world
+    commands:
+    - warp SHOP1
+  14:
+    x: 285
+    "y": 6
+    z: 262
+    level: world
+    commands:
+    - warp KITFFA
+  15:
+    x: 287
+    "y": 6
+    z: 258
+    level: world
+    commands:
+    - warp 人口資源
+  16:
+    x: 287
+    "y": 6
+    z: 259
+    level: world
+    commands:
+    - warp ｒｕｌｅ
+  17:
+    x: 287
+    "y": 6
+    z: 260
+    level: world
+    commands:
+    - warp 宅地
+  18:
+    x: 287
+    "y": 6
+    z: 261
+    level: world
+    commands:
+    - warp SHOP1
+  19:
+    x: 287
+    "y": 6
+    z: 262
+    level: world
+    commands:
+    - warp KITFFA
+  20:
+    x: 285
+    "y": 6
+    z: 254
+    level: world
+    commands:
+    - warp 人口資源
+  21:
+    x: 285
+    "y": 6
+    z: 253
+    level: world
+    commands:
+    - warp ｒｕｌｅ
+  22:
+    x: 285
+    "y": 6
+    z: 252
+    level: world
+    commands:
+    - warp 宅地
+  23:
+    x: 287
+    "y": 6
+    z: 254
+    level: world
+    commands:
+    - warp 人口資源
+  24:
+    x: 287
+    "y": 6
+    z: 253
+    level: world
+    commands:
+    - warp rule
+    - warp ｒuｌe
+    - warp ｒｕｌｅ
+  25:
+    x: 286
+    "y": 5
+    z: 247
+    level: world
+    commands:
+    - warp 宅地
+  26:
+    x: 287
+    "y": 6
+    z: 252
+    level: world
+    commands:
+    - warp 宅地
+  27:
+    x: 285
+    "y": 6
+    z: 251
+    level: world
+    commands:
+    - warp shop1
+    - warp SHOP1
+  28:
+    x: 285
+    "y": 6
+    z: 250
+    level: world
+    commands:
+    - warp KITPVP
+    - warp KITFFA
+    - warp KITFFA
+  29:
+    x: 287
+    "y": 6
+    z: 251
+    level: world
+    commands:
+    - warp SHOP1
+  30:
+    x: 287
+    "y": 6
+    z: 250
+    level: world
+    commands:
+    - warp KITFFA
+  31:
+    x: 275
+    "y": 6
+    z: 253
+    level: world
+    commands:
+    - say abcdefg
+  32:
+    x: 279
+    "y": 9
+    z: 257
+    level: world
+    commands:
+    - 実行したいコマンド
+  33:
+    x: 275
+    "y": 5
+    z: 253
+    level: world
+    commands:
+    - gamemode 0 tkpnender
+  34:
+    x: 289
+    "y": 6
+    z: 258
+    level: world
+    commands:
+    - warp 人口資源
+  36:
+    x: 285
+    "y": 6
+    z: 263
+    level: world
+    commands:
+    - warp 高級住宅街
+  37:
+    x: 285
+    "y": 6
+    z: 264
+    level: world
+    commands:
+    - warp 生活ワールド
+  38:
+    x: 279
+    "y": 6
+    z: 258
+    level: world
+    commands:
+    - warp 住宅街
+...

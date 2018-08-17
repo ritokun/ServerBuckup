@@ -1,0 +1,10 @@
+name: SIN
+main: SIN\Main
+version: 1.0.0
+api:
+- 4.0.0
+load: POSTWORLD
+description: SIN(Set Item Name)
+commands:
+ sin:
+  description: 持ってるアイテムの名前を変更します。

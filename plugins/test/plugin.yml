@@ -1,0 +1,12 @@
+---
+name: test
+main: rito\vs
+version: 1.0.0
+api:
+- 3.0.0-ALPHA12
+- 3.0.2
+- 4.0.0
+load: POSTWORLD
+author: りとくん
+description: testplugin!!
+...

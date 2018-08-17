@@ -1,0 +1,17 @@
+---
+name: test5
+main: test\command\gms
+version: 1.0.0
+api:
+- 3.0.0-ALPHA12
+- 3.0.2
+- 4.0.0
+load: POSTWORLD
+author: Ritorick
+description: testです！
+commands:
+  gms:
+    description: gamemode 0
+    usage: /gms
+    permission: skeleton.command
+...

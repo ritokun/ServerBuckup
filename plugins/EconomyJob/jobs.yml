@@ -1,0 +1,16 @@
+---
+tree:
+  17:0:break: 10
+  17:1:break: 10
+  17:2:break: 10
+  18:0:break: 10
+  18:1:break: 3
+  18:2:break: 3
+stone:
+  1:0:break: 10 
+  4:0:break: 3
+植樹師:
+  6:0:place: 10
+  6:1:place: 10
+  6:2:place: 10
+...

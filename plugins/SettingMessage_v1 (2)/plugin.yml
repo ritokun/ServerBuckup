@@ -1,0 +1,12 @@
+---
+name: SettingMessage
+main: message\main
+api:
+- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
+- 3.0.0-ALPHA13
+- 3.0.2
+- 4.0.0
+version: 1.000000
+author: hayao
+...
